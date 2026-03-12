@@ -1,0 +1,101 @@
+po_id,po_date,sku,product_type,supplier_name,supplier_location,order_qty,received_qty,expected_receipt_date,actual_receipt_date,shipping_carrier,transportation_mode,route,shipping_cost,freight_cost,inspection_result,days_late,po_status
+PO10000,2026-01-05,SKU0,haircare,Supplier 3,Mumbai,96,96,2026-01-23,2026-01-24,Carrier B,Road,Route B,2.96,187.75,Pending,1,Late
+PO10001,2026-02-04,SKU1,skincare,Supplier 3,Mumbai,37,35,2026-02-13,2026-02-15,Carrier A,Road,Route B,9.72,503.07,Pending,2,Partially Received
+PO10002,2026-01-30,SKU2,haircare,Supplier 1,Mumbai,88,84,2026-02-17,2026-02-17,Carrier B,Air,Route C,8.05,141.92,Pending,0,Partially Received
+PO10003,2026-01-20,SKU3,skincare,Supplier 5,Kolkata,59,56,2026-01-27,2026-01-31,Carrier C,Rail,Route A,1.73,254.78,Fail,4,Partially Received
+PO10004,2026-01-20,SKU4,skincare,Supplier 1,Delhi,56,54,2026-02-07,2026-02-10,Carrier A,Air,Route A,3.89,923.44,Fail,3,Partially Received
+PO10005,2026-02-08,SKU5,haircare,Supplier 4,Bangalore,66,64,2026-02-26,2026-03-01,Carrier B,Road,Route A,4.44,235.46,Fail,3,Partially Received
+PO10006,2026-01-04,SKU6,skincare,Supplier 3,Kolkata,58,57,2026-01-21,2026-01-21,Carrier C,Sea,Route A,3.88,134.37,Pending,0,Partially Received
+PO10007,2026-02-01,SKU7,cosmetics,Supplier 4,Bangalore,11,11,2026-02-17,2026-02-22,Carrier B,Road,Route C,2.35,802.06,Fail,5,Late
+PO10008,2026-01-10,SKU8,cosmetics,Supplier 4,Mumbai,15,15,2026-01-23,2026-01-23,Carrier C,Sea,Route B,3.4,505.56,Pending,0,Received
+PO10009,2026-01-05,SKU9,skincare,Supplier 2,Chennai,83,80,2026-01-21,2026-01-21,Carrier A,Rail,Route B,7.17,995.93,Pending,0,Partially Received
+PO10010,2026-01-24,SKU10,skincare,Supplier 5,Kolkata,80,79,2026-02-03,2026-02-02,Carrier C,Road,Route B,8.67,806.1,Pass,-1,Partially Received
+PO10011,2026-02-13,SKU11,skincare,Supplier 2,Kolkata,60,60,2026-03-02,2026-03-04,Carrier A,Air,Route A,4.52,126.72,Pending,2,Late
+PO10012,2026-02-03,SKU12,haircare,Supplier 4,Kolkata,85,83,2026-02-17,2026-02-22,Carrier A,Road,Route B,1.33,402.97,Fail,5,Partially Received
+PO10013,2026-02-04,SKU13,skincare,Supplier 5,Bangalore,48,47,2026-02-17,2026-02-17,Carrier A,Road,Route B,9.54,547.24,Pending,0,Partially Received
+PO10014,2026-02-02,SKU14,skincare,Supplier 1,Kolkata,78,78,2026-02-16,2026-02-16,Carrier B,Air,Route B,2.04,929.24,Pending,0,Received
+PO10015,2026-02-05,SKU15,skincare,Supplier 1,Bangalore,69,67,2026-02-19,2026-02-20,Carrier B,Sea,Route B,2.42,127.86,Pass,1,Partially Received
+PO10016,2026-01-24,SKU16,skincare,Supplier 1,Bangalore,78,77,2026-01-31,2026-02-01,Carrier B,Air,Route A,4.19,865.53,Pass,1,Partially Received
+PO10017,2026-01-06,SKU17,cosmetics,Supplier 1,Chennai,85,85,2026-01-14,2026-01-16,Carrier C,Air,Route C,3.59,670.93,Fail,2,Late
+PO10018,2026-02-07,SKU18,haircare,Supplier 2,Kolkata,46,45,2026-02-17,2026-02-19,Carrier C,Sea,Route A,4.34,593.48,Pending,2,Partially Received
+PO10019,2026-01-21,SKU19,skincare,Supplier 4,Chennai,94,91,2026-01-29,2026-02-03,Carrier A,Road,Route C,4.74,477.31,Fail,5,Partially Received
+PO10020,2026-01-23,SKU20,skincare,Supplier 1,Chennai,68,65,2026-02-05,2026-02-06,Carrier A,Air,Route B,8.88,493.87,Pass,1,Partially Received
+PO10021,2026-01-17,SKU21,cosmetics,Supplier 5,Chennai,7,7,2026-02-02,2026-02-02,Carrier B,Air,Route C,6.04,523.36,Pending,0,Received
+PO10022,2026-01-09,SKU22,haircare,Supplier 4,Kolkata,63,61,2026-01-25,2026-01-29,Carrier A,Rail,Route C,9.57,205.57,Fail,4,Partially Received
+PO10023,2026-02-11,SKU23,cosmetics,Supplier 5,Kolkata,29,29,2026-02-24,2026-02-26,Carrier A,Rail,Route A,2.92,196.33,Pending,2,Late
+PO10024,2026-02-05,SKU24,haircare,Supplier 2,Bangalore,2,2,2026-02-23,2026-02-25,Carrier C,Air,Route A,9.74,758.72,Pending,2,Late
+PO10025,2026-01-29,SKU25,haircare,Supplier 4,Kolkata,52,50,2026-02-12,2026-02-12,Carrier C,Road,Route B,2.23,458.54,Pending,0,Partially Received
+PO10026,2026-01-19,SKU26,haircare,Supplier 2,Bangalore,48,47,2026-01-27,2026-01-28,Carrier B,Rail,Route A,6.51,617.87,Pass,1,Partially Received
+PO10027,2026-02-07,SKU27,cosmetics,Supplier 5,Mumbai,62,60,2026-02-24,2026-02-28,Carrier C,Sea,Route B,7.41,762.46,Fail,4,Partially Received
+PO10028,2026-01-25,SKU28,cosmetics,Supplier 1,Mumbai,24,24,2026-02-09,2026-02-13,Carrier B,Air,Route A,9.9,123.44,Fail,4,Late
+PO10029,2026-01-20,SKU29,cosmetics,Supplier 1,Kolkata,67,64,2026-02-04,2026-02-05,Carrier B,Road,Route B,8.1,764.94,Pass,1,Partially Received
+PO10030,2026-01-21,SKU30,haircare,Supplier 4,Kolkata,35,35,2026-02-04,2026-02-05,Carrier B,Road,Route C,8.95,880.08,Pending,1,Late
+PO10031,2026-01-11,SKU31,skincare,Supplier 3,Chennai,44,43,2026-01-25,2026-01-26,Carrier B,Rail,Route C,2.68,609.38,Pending,1,Partially Received
+PO10032,2026-01-05,SKU32,skincare,Supplier 3,Kolkata,64,63,2026-01-13,2026-01-14,Carrier C,Road,Route A,6.6,761.17,Pass,1,Partially Received
+PO10033,2026-01-25,SKU33,cosmetics,Supplier 5,Chennai,95,92,2026-02-08,2026-02-13,Carrier C,Sea,Route A,4.86,371.26,Fail,5,Partially Received
+PO10034,2026-02-09,SKU34,skincare,Supplier 1,Chennai,21,21,2026-02-27,2026-02-27,Carrier A,Road,Route B,1.02,510.36,Pass,0,Received
+PO10035,2026-01-03,SKU35,cosmetics,Supplier 1,Delhi,85,85,2026-01-14,2026-01-13,Carrier C,Sea,Route C,5.29,553.42,Pass,-1,Received
+PO10036,2026-02-08,SKU36,skincare,Supplier 2,Delhi,28,27,2026-02-23,2026-02-27,Carrier B,Air,Route C,2.11,403.81,Fail,4,Partially Received
+PO10037,2026-02-07,SKU37,skincare,Supplier 3,Kolkata,21,20,2026-02-14,2026-02-14,Carrier A,Sea,Route A,1.53,183.93,Pending,0,Partially Received
+PO10038,2026-01-13,SKU38,cosmetics,Supplier 5,Mumbai,88,87,2026-01-24,2026-01-24,Carrier B,Air,Route B,9.24,339.67,Pending,0,Partially Received
+PO10039,2026-01-29,SKU39,skincare,Supplier 2,Kolkata,34,34,2026-02-11,2026-02-15,Carrier A,Air,Route B,5.56,653.67,Fail,4,Late
+PO10040,2026-01-08,SKU40,skincare,Supplier 1,Kolkata,39,37,2026-01-28,2026-01-29,Carrier C,Road,Route A,7.23,529.81,Pending,1,Partially Received
+PO10041,2026-02-04,SKU41,skincare,Supplier 4,Chennai,38,38,2026-02-14,2026-02-18,Carrier B,Sea,Route A,5.77,275.52,Fail,4,Late
+PO10042,2026-02-01,SKU42,skincare,Supplier 5,Bangalore,57,54,2026-02-11,2026-02-13,Carrier C,Road,Route A,7.53,635.66,Fail,2,Partially Received
+PO10043,2026-01-16,SKU43,haircare,Supplier 5,Mumbai,85,85,2026-01-28,2026-01-29,Carrier B,Air,Route A,3.69,716.04,Pending,1,Late
+PO10044,2026-01-04,SKU44,cosmetics,Supplier 2,Delhi,72,70,2026-01-24,2026-01-28,Carrier C,Rail,Route A,7.58,610.45,Fail,4,Partially Received
+PO10045,2026-02-13,SKU45,haircare,Supplier 2,Chennai,52,50,2026-03-03,2026-03-03,Carrier B,Rail,Route A,5.22,495.31,Pass,0,Partially Received
+PO10046,2026-01-21,SKU46,haircare,Supplier 3,Chennai,6,6,2026-01-28,2026-01-30,Carrier B,Road,Route B,4.07,380.44,Pending,2,Late
+PO10047,2026-02-10,SKU47,skincare,Supplier 1,Kolkata,51,51,2026-02-20,2026-02-22,Carrier B,Rail,Route A,8.98,581.6,Pending,2,Late
+PO10048,2026-01-31,SKU48,haircare,Supplier 2,Mumbai,9,9,2026-02-18,2026-02-23,Carrier C,Rail,Route B,7.1,768.65,Fail,5,Late
+PO10049,2026-02-05,SKU49,cosmetics,Supplier 5,Delhi,9,9,2026-02-12,2026-02-11,Carrier C,Rail,Route A,2.51,336.89,Pass,-1,Received
+PO10050,2026-02-04,SKU50,cosmetics,Supplier 2,Delhi,82,78,2026-02-22,2026-02-24,Carrier A,Rail,Route B,6.25,496.25,Fail,2,Partially Received
+PO10051,2026-01-09,SKU51,haircare,Supplier 5,Bangalore,52,51,2026-01-19,2026-01-19,Carrier A,Road,Route A,4.78,694.98,Pending,0,Partially Received
+PO10052,2026-01-17,SKU52,skincare,Supplier 1,Mumbai,11,11,2026-02-05,2026-02-05,Carrier B,Air,Route C,8.63,602.9,Pending,0,Received
+PO10053,2026-01-22,SKU53,skincare,Supplier 1,Delhi,54,53,2026-02-02,2026-02-03,Carrier B,Air,Route B,1.01,750.74,Pending,1,Partially Received
+PO10054,2026-01-23,SKU54,haircare,Supplier 1,Kolkata,61,59,2026-02-05,2026-02-05,Carrier B,Road,Route B,4.31,814.07,Pass,0,Partially Received
+PO10055,2026-01-02,SKU55,haircare,Supplier 2,Delhi,11,10,2026-01-18,2026-01-20,Carrier A,Sea,Route B,5.01,323.01,Fail,2,Partially Received
+PO10056,2026-01-25,SKU56,skincare,Supplier 1,Mumbai,83,82,2026-02-02,2026-02-01,Carrier C,Air,Route B,1.77,832.21,Pass,-1,Partially Received
+PO10057,2026-01-07,SKU57,haircare,Supplier 2,Delhi,51,50,2026-01-21,2026-01-23,Carrier B,Rail,Route A,9.16,482.19,Pending,2,Partially Received
+PO10058,2026-02-03,SKU58,skincare,Supplier 3,Delhi,44,43,2026-02-17,2026-02-19,Carrier A,Road,Route B,4.94,110.36,Fail,2,Partially Received
+PO10059,2026-01-31,SKU59,cosmetics,Supplier 1,Kolkata,26,26,2026-02-17,2026-02-21,Carrier B,Air,Route A,7.29,312.57,Fail,4,Late
+PO10060,2026-02-11,SKU60,skincare,Supplier 4,Mumbai,72,70,2026-03-03,2026-03-08,Carrier C,Rail,Route A,4.38,430.17,Fail,5,Partially Received
+PO10061,2026-02-03,SKU61,haircare,Supplier 4,Kolkata,36,34,2026-02-19,2026-02-21,Carrier C,Air,Route A,9.03,164.37,Fail,2,Partially Received
+PO10062,2026-01-17,SKU62,cosmetics,Supplier 2,Mumbai,40,39,2026-01-29,2026-01-30,Carrier C,Sea,Route C,7.29,320.85,Pass,1,Partially Received
+PO10063,2026-02-13,SKU63,skincare,Supplier 3,Bangalore,10,10,2026-02-25,2026-02-27,Carrier A,Sea,Route A,2.46,687.29,Pending,2,Late
+PO10064,2026-01-19,SKU64,skincare,Supplier 1,Delhi,75,75,2026-01-31,2026-02-05,Carrier C,Air,Route C,4.59,771.23,Fail,5,Late
+PO10065,2026-01-15,SKU65,skincare,Supplier 5,Kolkata,54,51,2026-02-02,2026-02-06,Carrier C,Rail,Route C,6.58,555.86,Fail,4,Partially Received
+PO10066,2026-02-10,SKU66,skincare,Supplier 5,Kolkata,19,18,2026-02-21,2026-02-24,Carrier A,Road,Route A,2.22,393.84,Fail,3,Partially Received
+PO10067,2026-01-17,SKU67,skincare,Supplier 1,Mumbai,71,71,2026-01-26,2026-01-26,Carrier C,Sea,Route C,9.15,169.27,Pass,0,Received
+PO10068,2026-01-04,SKU68,haircare,Supplier 2,Bangalore,58,57,2026-01-15,2026-01-19,Carrier B,Rail,Route A,1.19,299.71,Fail,4,Partially Received
+PO10069,2026-01-22,SKU69,skincare,Supplier 4,Kolkata,27,27,2026-01-29,2026-01-31,Carrier B,Air,Route A,9.71,207.66,Pending,2,Late
+PO10070,2026-02-05,SKU70,haircare,Supplier 1,Bangalore,22,22,2026-02-13,2026-02-14,Carrier B,Road,Route C,6.32,183.27,Pass,1,Late
+PO10071,2026-01-09,SKU71,cosmetics,Supplier 2,Bangalore,26,25,2026-01-17,2026-01-18,Carrier A,Road,Route A,9.23,405.17,Pending,1,Partially Received
+PO10072,2026-01-21,SKU72,cosmetics,Supplier 1,Bangalore,77,75,2026-02-07,2026-02-08,Carrier A,Rail,Route B,6.6,677.94,Pending,1,Partially Received
+PO10073,2026-01-06,SKU73,cosmetics,Supplier 4,Chennai,66,63,2026-01-23,2026-01-28,Carrier B,Road,Route A,1.51,866.47,Fail,5,Partially Received
+PO10074,2026-01-31,SKU74,haircare,Supplier 4,Delhi,1,1,2026-02-16,2026-02-19,Carrier A,Rail,Route A,5.24,341.55,Fail,3,Late
+PO10075,2026-01-22,SKU75,skincare,Supplier 1,Chennai,56,55,2026-02-04,2026-02-05,Carrier C,Air,Route C,2.47,873.13,Pass,1,Partially Received
+PO10076,2026-01-15,SKU76,haircare,Supplier 2,Bangalore,22,22,2026-02-01,2026-02-03,Carrier A,Rail,Route A,7.05,997.41,Pending,2,Late
+PO10077,2026-01-11,SKU77,haircare,Supplier 1,Kolkata,57,55,2026-01-20,2026-01-19,Carrier B,Road,Route B,6.78,852.57,Pass,-1,Partially Received
+PO10078,2026-01-26,SKU78,haircare,Supplier 5,Mumbai,51,49,2026-02-14,2026-02-15,Carrier B,Sea,Route C,8.47,323.59,Pending,1,Partially Received
+PO10079,2026-01-31,SKU79,haircare,Supplier 3,Bangalore,20,20,2026-02-14,2026-02-14,Carrier B,Air,Route C,6.5,351.5,Pending,0,Received
+PO10080,2026-02-12,SKU80,skincare,Supplier 3,Chennai,41,40,2026-03-04,2026-03-07,Carrier C,Sea,Route B,2.83,787.78,Fail,3,Partially Received
+PO10081,2026-01-20,SKU81,haircare,Supplier 3,Delhi,8,8,2026-01-29,2026-01-31,Carrier B,Rail,Route B,4.07,276.78,Pending,2,Late
+PO10082,2026-01-08,SKU82,skincare,Supplier 2,Mumbai,72,69,2026-01-21,2026-01-23,Carrier A,Road,Route C,4.71,589.98,Pending,2,Partially Received
+PO10083,2026-02-07,SKU83,haircare,Supplier 1,Bangalore,7,7,2026-02-23,2026-02-26,Carrier B,Road,Route A,4.95,682.97,Fail,3,Late
+PO10084,2026-01-29,SKU84,haircare,Supplier 5,Chennai,80,76,2026-02-11,2026-02-11,Carrier A,Air,Route B,8.38,465.46,Pass,0,Partially Received
+PO10085,2026-02-01,SKU85,cosmetics,Supplier 5,Chennai,66,65,2026-02-14,2026-02-19,Carrier C,Road,Route B,8.25,842.69,Fail,5,Partially Received
+PO10086,2026-01-05,SKU86,skincare,Supplier 1,Mumbai,22,22,2026-01-14,2026-01-14,Carrier B,Rail,Route A,1.45,264.25,Pass,0,Received
+PO10087,2026-01-15,SKU87,haircare,Supplier 3,Chennai,55,53,2026-01-27,2026-01-31,Carrier A,Sea,Route B,6.58,879.36,Fail,4,Partially Received
+PO10088,2026-02-04,SKU88,cosmetics,Supplier 2,Mumbai,85,84,2026-02-14,2026-02-16,Carrier A,Sea,Route A,3.8,103.92,Pending,2,Partially Received
+PO10089,2026-02-07,SKU89,cosmetics,Supplier 1,Kolkata,27,26,2026-02-18,2026-02-18,Carrier B,Rail,Route B,9.93,517.5,Pending,0,Partially Received
+PO10090,2026-01-20,SKU90,skincare,Supplier 3,Bangalore,96,95,2026-02-05,2026-02-06,Carrier B,Rail,Route B,7.67,990.08,Pass,1,Partially Received
+PO10091,2026-02-06,SKU91,cosmetics,Supplier 4,Delhi,85,84,2026-02-21,2026-02-21,Carrier B,Rail,Route B,7.47,996.78,Pending,0,Partially Received
+PO10092,2026-02-07,SKU92,cosmetics,Supplier 2,Mumbai,10,10,2026-02-22,2026-02-23,Carrier B,Rail,Route B,4.47,230.09,Pass,1,Late
+PO10093,2026-01-18,SKU93,haircare,Supplier 4,Chennai,66,63,2026-01-30,2026-02-02,Carrier C,Air,Route A,7.01,823.52,Fail,3,Partially Received
+PO10094,2026-02-10,SKU94,cosmetics,Supplier 2,Delhi,72,71,2026-03-02,2026-03-01,Carrier B,Rail,Route B,6.94,846.67,Pass,-1,Partially Received
+PO10095,2026-01-13,SKU95,haircare,Supplier 4,Mumbai,26,26,2026-01-21,2026-01-23,Carrier B,Air,Route A,8.63,778.86,Pending,2,Late
+PO10096,2026-01-11,SKU96,cosmetics,Supplier 3,Mumbai,32,31,2026-01-22,2026-01-22,Carrier C,Road,Route A,5.35,188.74,Pending,0,Partially Received
+PO10097,2026-01-31,SKU97,haircare,Supplier 4,Mumbai,4,4,2026-02-08,2026-02-11,Carrier A,Road,Route A,7.9,540.13,Fail,3,Late
+PO10098,2026-01-29,SKU98,skincare,Supplier 5,Chennai,27,26,2026-02-09,2026-02-09,Carrier B,Rail,Route A,1.41,882.2,Pending,0,Partially Received
+PO10099,2026-01-07,SKU99,haircare,Supplier 2,Chennai,59,59,2026-01-27,2026-01-29,Carrier B,Rail,Route B,1.31,210.74,Fail,2,Late

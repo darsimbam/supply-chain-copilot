@@ -1,0 +1,101 @@
+snapshot_date,sku,product_type,location,availability_pct,stock_on_hand_units,avg_weekly_sales_units,supplier_name,reorder_point_units,safety_stock_units,days_of_cover,inventory_status
+2026-03-01,SKU0,haircare,Mumbai,55,58,200,Supplier 3,775,12,2.0,Reorder Soon
+2026-03-01,SKU1,skincare,Mumbai,95,53,184,Supplier 3,564,11,2.0,Reorder Soon
+2026-03-01,SKU2,haircare,Mumbai,34,1,2,Supplier 1,3,1,3.5,Critical
+2026-03-01,SKU3,skincare,Kolkata,68,23,21,Supplier 5,66,5,7.7,Reorder Soon
+2026-03-01,SKU4,skincare,Delhi,26,5,218,Supplier 1,145,1,0.2,Reorder Soon
+2026-03-01,SKU5,haircare,Bangalore,87,90,37,Supplier 4,49,18,17.0,Healthy
+2026-03-01,SKU6,skincare,Kolkata,48,11,16,Supplier 3,30,2,4.8,Reorder Soon
+2026-03-01,SKU7,cosmetics,Bangalore,59,93,106,Supplier 4,312,19,6.1,Reorder Soon
+2026-03-01,SKU8,cosmetics,Mumbai,78,5,38,Supplier 4,65,1,0.9,Reorder Soon
+2026-03-01,SKU9,skincare,Chennai,35,14,245,Supplier 2,947,3,0.4,Reorder Soon
+2026-03-01,SKU10,skincare,Kolkata,11,51,249,Supplier 5,598,10,1.4,Reorder Soon
+2026-03-01,SKU11,skincare,Kolkata,95,46,240,Supplier 2,896,9,1.3,Reorder Soon
+2026-03-01,SKU12,haircare,Kolkata,41,100,84,Supplier 4,34,20,8.3,Healthy
+2026-03-01,SKU13,skincare,Bangalore,5,80,62,Supplier 5,191,16,9.0,Reorder Soon
+2026-03-01,SKU14,skincare,Kolkata,26,54,140,Supplier 1,468,11,2.7,Reorder Soon
+2026-03-01,SKU15,skincare,Bangalore,94,9,117,Supplier 1,219,2,0.5,Reorder Soon
+2026-03-01,SKU16,skincare,Bangalore,74,2,70,Supplier 1,28,1,0.2,Reorder Soon
+2026-03-01,SKU17,cosmetics,Chennai,82,45,32,Supplier 1,29,9,9.8,Healthy
+2026-03-01,SKU18,haircare,Kolkata,23,10,155,Supplier 2,372,2,0.5,Reorder Soon
+2026-03-01,SKU19,skincare,Chennai,100,48,47,Supplier 4,125,10,7.1,Reorder Soon
+2026-03-01,SKU20,skincare,Chennai,22,27,80,Supplier 1,309,5,2.4,Reorder Soon
+2026-03-01,SKU21,cosmetics,Chennai,60,69,150,Supplier 5,381,14,3.2,Reorder Soon
+2026-03-01,SKU22,haircare,Kolkata,55,71,221,Supplier 4,648,14,2.2,Reorder Soon
+2026-03-01,SKU23,cosmetics,Kolkata,30,84,98,Supplier 5,143,17,6.0,Reorder Soon
+2026-03-01,SKU24,haircare,Bangalore,32,4,52,Supplier 2,195,1,0.5,Reorder Soon
+2026-03-01,SKU25,haircare,Kolkata,73,82,36,Supplier 4,90,16,15.9,Reorder Soon
+2026-03-01,SKU26,haircare,Bangalore,9,59,88,Supplier 2,306,12,4.7,Reorder Soon
+2026-03-01,SKU27,cosmetics,Mumbai,42,47,88,Supplier 5,293,9,3.7,Reorder Soon
+2026-03-01,SKU28,cosmetics,Mumbai,12,48,98,Supplier 1,171,10,3.4,Reorder Soon
+2026-03-01,SKU29,cosmetics,Kolkata,3,45,63,Supplier 1,135,9,5.0,Reorder Soon
+2026-03-01,SKU30,haircare,Kolkata,10,60,82,Supplier 4,294,12,5.1,Reorder Soon
+2026-03-01,SKU31,skincare,Chennai,28,6,42,Supplier 3,134,1,1.0,Reorder Soon
+2026-03-01,SKU32,skincare,Kolkata,43,89,195,Supplier 3,781,18,3.2,Reorder Soon
+2026-03-01,SKU33,cosmetics,Chennai,63,4,154,Supplier 5,21,1,0.2,Reorder Soon
+2026-03-01,SKU34,skincare,Chennai,96,1,150,Supplier 1,80,1,0.0,Critical
+2026-03-01,SKU35,cosmetics,Delhi,11,42,112,Supplier 1,45,8,2.6,Reorder Soon
+2026-03-01,SKU36,skincare,Delhi,34,18,241,Supplier 2,835,4,0.5,Reorder Soon
+2026-03-01,SKU37,skincare,Kolkata,5,25,241,Supplier 3,770,5,0.7,Reorder Soon
+2026-03-01,SKU38,cosmetics,Mumbai,75,69,176,Supplier 5,235,14,2.7,Reorder Soon
+2026-03-01,SKU39,skincare,Kolkata,26,78,44,Supplier 2,176,16,12.4,Reorder Soon
+2026-03-01,SKU40,skincare,Kolkata,97,90,233,Supplier 1,560,18,2.7,Reorder Soon
+2026-03-01,SKU41,skincare,Chennai,35,64,139,Supplier 4,334,13,3.2,Reorder Soon
+2026-03-01,SKU42,skincare,Bangalore,98,22,39,Supplier 5,134,4,3.9,Reorder Soon
+2026-03-01,SKU43,haircare,Mumbai,6,36,150,Supplier 5,20,7,1.7,Healthy
+2026-03-01,SKU44,cosmetics,Delhi,34,13,230,Supplier 2,214,3,0.4,Reorder Soon
+2026-03-01,SKU45,haircare,Chennai,1,93,6,Supplier 2,20,19,108.5,Healthy
+2026-03-01,SKU46,haircare,Chennai,75,92,215,Supplier 3,515,18,3.0,Reorder Soon
+2026-03-01,SKU47,skincare,Kolkata,93,4,228,Supplier 1,303,1,0.1,Reorder Soon
+2026-03-01,SKU48,haircare,Mumbai,28,30,7,Supplier 2,9,6,30.0,Healthy
+2026-03-01,SKU49,cosmetics,Delhi,19,97,25,Supplier 5,92,19,27.2,Healthy
+2026-03-01,SKU50,cosmetics,Delhi,91,31,158,Supplier 2,422,6,1.4,Reorder Soon
+2026-03-01,SKU51,haircare,Bangalore,61,100,38,Supplier 5,92,20,18.4,Healthy
+2026-03-01,SKU52,skincare,Mumbai,1,64,205,Supplier 1,273,13,2.2,Reorder Soon
+2026-03-01,SKU53,skincare,Delhi,93,96,60,Supplier 1,8,19,11.2,Healthy
+2026-03-01,SKU54,haircare,Kolkata,11,33,156,Supplier 1,539,7,1.5,Reorder Soon
+2026-03-01,SKU55,haircare,Delhi,16,97,175,Supplier 2,631,19,3.9,Reorder Soon
+2026-03-01,SKU56,skincare,Mumbai,90,25,23,Supplier 1,74,5,7.6,Reorder Soon
+2026-03-01,SKU57,haircare,Delhi,65,5,57,Supplier 2,159,1,0.6,Reorder Soon
+2026-03-01,SKU58,skincare,Delhi,81,10,224,Supplier 3,538,2,0.3,Reorder Soon
+2026-03-01,SKU59,cosmetics,Kolkata,30,100,121,Supplier 1,177,20,5.8,Reorder Soon
+2026-03-01,SKU60,skincare,Mumbai,16,41,95,Supplier 4,367,8,3.0,Reorder Soon
+2026-03-01,SKU61,haircare,Kolkata,23,32,29,Supplier 4,55,6,7.7,Reorder Soon
+2026-03-01,SKU62,cosmetics,Mumbai,89,86,68,Supplier 2,117,17,8.9,Reorder Soon
+2026-03-01,SKU63,skincare,Bangalore,55,54,62,Supplier 3,148,11,6.1,Reorder Soon
+2026-03-01,SKU64,skincare,Delhi,11,73,34,Supplier 1,76,15,15.0,Reorder Soon
+2026-03-01,SKU65,skincare,Kolkata,72,57,114,Supplier 5,244,11,3.5,Reorder Soon
+2026-03-01,SKU66,skincare,Kolkata,52,13,176,Supplier 5,563,3,0.5,Reorder Soon
+2026-03-01,SKU67,skincare,Mumbai,16,12,128,Supplier 1,171,2,0.7,Reorder Soon
+2026-03-01,SKU68,haircare,Bangalore,29,0,41,Supplier 2,11,1,0.0,Critical
+2026-03-01,SKU69,skincare,Kolkata,62,95,128,Supplier 4,153,19,5.2,Reorder Soon
+2026-03-01,SKU70,haircare,Bangalore,90,10,8,Supplier 1,23,2,8.8,Reorder Soon
+2026-03-01,SKU71,cosmetics,Bangalore,14,76,159,Supplier 2,42,15,3.3,Healthy
+2026-03-01,SKU72,cosmetics,Bangalore,88,57,120,Supplier 1,335,11,3.3,Reorder Soon
+2026-03-01,SKU73,cosmetics,Chennai,41,17,94,Supplier 4,162,3,1.3,Reorder Soon
+2026-03-01,SKU74,haircare,Delhi,64,41,226,Supplier 4,30,8,1.3,Healthy
+2026-03-01,SKU75,skincare,Chennai,29,16,26,Supplier 1,88,3,4.3,Reorder Soon
+2026-03-01,SKU76,haircare,Bangalore,23,38,60,Supplier 2,201,8,4.4,Reorder Soon
+2026-03-01,SKU77,haircare,Kolkata,14,96,90,Supplier 1,311,19,7.5,Reorder Soon
+2026-03-01,SKU78,haircare,Mumbai,50,5,236,Supplier 5,788,1,0.1,Reorder Soon
+2026-03-01,SKU79,haircare,Bangalore,56,31,50,Supplier 3,33,6,4.3,Reorder Soon
+2026-03-01,SKU80,skincare,Chennai,75,39,218,Supplier 3,233,8,1.3,Reorder Soon
+2026-03-01,SKU81,haircare,Delhi,9,48,194,Supplier 3,722,10,1.7,Reorder Soon
+2026-03-01,SKU82,skincare,Mumbai,13,42,84,Supplier 2,67,8,3.5,Reorder Soon
+2026-03-01,SKU83,haircare,Bangalore,82,65,166,Supplier 1,442,13,2.7,Reorder Soon
+2026-03-01,SKU84,haircare,Chennai,99,73,154,Supplier 5,494,15,3.3,Reorder Soon
+2026-03-01,SKU85,cosmetics,Chennai,83,15,6,Supplier 5,3,3,17.5,Healthy
+2026-03-01,SKU86,skincare,Mumbai,18,32,56,Supplier 1,30,6,4.0,Healthy
+2026-03-01,SKU87,haircare,Chennai,24,5,20,Supplier 3,71,1,1.8,Reorder Soon
+2026-03-01,SKU88,cosmetics,Mumbai,58,60,184,Supplier 2,516,12,2.3,Reorder Soon
+2026-03-01,SKU89,cosmetics,Kolkata,10,90,34,Supplier 1,103,18,18.5,Reorder Soon
+2026-03-01,SKU90,skincare,Bangalore,56,66,80,Supplier 3,85,13,5.8,Reorder Soon
+2026-03-01,SKU91,cosmetics,Delhi,90,98,229,Supplier 4,153,20,3.0,Reorder Soon
+2026-03-01,SKU92,cosmetics,Mumbai,44,90,69,Supplier 2,37,18,9.1,Healthy
+2026-03-01,SKU93,haircare,Chennai,88,63,28,Supplier 4,80,13,15.8,Reorder Soon
+2026-03-01,SKU94,cosmetics,Delhi,97,77,247,Supplier 2,395,15,2.2,Reorder Soon
+2026-03-01,SKU95,haircare,Mumbai,65,15,168,Supplier 4,403,3,0.6,Reorder Soon
+2026-03-01,SKU96,cosmetics,Mumbai,29,67,81,Supplier 3,302,13,5.8,Reorder Soon
+2026-03-01,SKU97,haircare,Mumbai,56,46,16,Supplier 4,21,9,20.1,Healthy
+2026-03-01,SKU98,skincare,Chennai,43,53,228,Supplier 5,852,11,1.6,Reorder Soon
+2026-03-01,SKU99,haircare,Chennai,17,55,157,Supplier 2,606,11,2.5,Reorder Soon
