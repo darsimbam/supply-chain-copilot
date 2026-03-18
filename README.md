@@ -2,9 +2,15 @@
 
 A Streamlit-based Supply Chain Copilot that uses OpenAI plus Python tools to answer business questions from supply chain data.
 
+## Live Demo
+
+Recruiters and reviewers can view the deployed app here:
+
+[https://baselstrasesintelligence.streamlit.app/](https://baselstrasesintelligence.streamlit.app/)
+
 ## Overview
 
-This project demonstrates how Agentic AI can support supply chain decision-making by combining:
+This project demonstrates how agentic AI can support supply chain decision-making by combining:
 
 - **Streamlit** for the user interface
 - **OpenAI** for intent understanding and business-friendly responses
@@ -43,28 +49,29 @@ This project shows how modern AI orchestration can turn fragmented data into fas
 
 ```text
 supply_chain_copilot/
-├── agents/
-│   └── orchestrator.py
-├── data/
-│   ├── forecast.csv
-│   ├── inventory.csv
-│   ├── otif.csv
-│   ├── purchase_orders.csv
-│   └── suppliers.csv
-├── pages/
-│   └── 1_Copilot.py
-├── prompts/
-│   └── system_prompt.txt
-├── services/
-│   └── openai_client.py
-├── tools/
-│   ├── forecast_tool.py
-│   ├── inventory_tool.py
-│   ├── otif_tool.py
-│   └── supplier_tool.py
-├── utils/
-│   └── metrics.py
-├── .env
-├── app.py
-├── requirements.txt
-└── README.md
+|-- agents/
+|   `-- orchestrator.py
+|-- data/
+|   |-- forecast.csv
+|   |-- inventory.csv
+|   |-- otif.csv
+|   |-- purchase_orders.csv
+|   `-- suppliers.csv
+|-- pages/
+|   `-- 1_Copilot.py
+|-- prompts/
+|   `-- system_prompt.txt
+|-- services/
+|   `-- openai_client.py
+|-- tools/
+|   |-- forecast_tool.py
+|   |-- inventory_tool.py
+|   |-- otif_tool.py
+|   `-- supplier_tool.py
+|-- utils/
+|   `-- metrics.py
+|-- .env.example
+|-- app.py
+|-- requirements.txt
+`-- README.md
+```
